@@ -1,0 +1,30 @@
+@import '../../theme/variables';
+@import './assets/styles/fontfaces';
+
+body {
+  background-color: $main-background-color;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+}
+
+.App {
+  color: #000;
+
+  .header {
+    overflow: auto;
+    padding: 15px;
+
+    img {
+      float: left;
+      height: 70px;
+      margin-right: 1em;
+    }
+  }
+
+  hr {
+    margin-bottom: 0;
+    margin-top: 0;
+    opacity: 0.15;
+  }
+}
+
+@import './assets/styles/typo';

@@ -1,0 +1,16 @@
+{
+  "watch": [
+    "index.js",
+    "tools/webpack/",
+    "!tools/webpack/webpack.server.babel.js",
+    "src/server.js",
+    "src/utils/Html.js",
+    "src/server/app.js",
+    "src/server/api.js",
+    "api/index.js",
+    "api/models/index.js",
+    "api/models/user.js",
+    "api/routes/index.js",
+    "api/user/index.js"
+  ]
+}
