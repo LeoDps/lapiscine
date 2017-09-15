@@ -1,6 +1,6 @@
 # La Piscine
 
-Main boilerplate for the next major bitcoins gambling plateform.
+Main boilerplate for the next first french BTC VIP club.
 
 ## Features
 
