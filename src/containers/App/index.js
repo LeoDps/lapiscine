@@ -11,6 +11,8 @@ import routes from '../../routes'
 import '../../theme/normalize.css'
 import styles from './styles.scss'
 
+import Header from '../../components/Header'
+
 export default () => {
   // Use it when sub routes are added to any route it'll work
   const routeWithSubRoutes = route => (
@@ -28,6 +30,7 @@ export default () => {
   return (
     <div className={styles.App}>
       <Helmet {...config.app} />
+      <Header />
       <Switch>
         {routes.map(route => routeWithSubRoutes(route))}
       </Switch>

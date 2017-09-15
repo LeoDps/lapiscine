@@ -2,6 +2,21 @@ h1 {
   font-family: 'Montserrat', Helvetica, sans-serif;
   font-size: 30px;
   font-weight: normal;
-  // color: $color-white;
+  color: $color-white;
   letter-spacing: -1.25px;
+  margin: 0;
+}
+
+a {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 14px;
+  color: #fff;
+  letter-spacing: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
 }
