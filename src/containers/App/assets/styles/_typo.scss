@@ -7,6 +7,24 @@ h1 {
   margin: 0;
 }
 
+h2 {
+  font-family: 'Montserrat', Helvetica, sans-serif;
+  font-size: 24px;
+  font-weight: lighter;
+  color: #4a4a4a;
+  letter-spacing: -1px;
+  margin: 0;
+}
+
+h3 {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 16px;
+  color: #f5a623;
+  font-weight: lighter;
+  letter-spacing: -0.67px;
+  margin: 0;
+}
+
 a {
   font-family: 'Open Sans', Helvetica, sans-serif;
   font-size: 14px;
@@ -15,6 +33,16 @@ a {
   text-transform: uppercase;
   font-weight: 700;
   text-decoration: none;
+}
+
+p {
+  font-family: 'Open Sans', Helvetica, sans-serif;
+  font-size: 14px;
+  color: #fff;
+  letter-spacing: -0.25px;
+  line-height: 20px;
+  font-weight: 300;
+  cursor: default;
 }
 
 li {

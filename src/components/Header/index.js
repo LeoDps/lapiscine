@@ -15,7 +15,7 @@ const Header = () => (
         <li><a href="/toto">tarifs</a></li>
         <li><a href="/toto">support</a></li>
         <li className={styles.Header__callToAction}>
-          <CallToAction context="rejoindre le club" />
+          <CallToAction content="rejoindre le club" color={styles.CTA_color} />
         </li>
       </ul>
     </div>

@@ -12,6 +12,7 @@ import type { Home as HomeType, Dispatch, Reducer } from '../../types'
 import styles from './styles.scss'
 
 import Headings from '../../components/Headings'
+import Description from '../../components/Description'
 
 type Props = {
   home: HomeType,
@@ -36,7 +37,10 @@ export class Home extends PureComponent {
 
   displayHomePage = (data) => {
     return (
-      <Headings data={data.headings} />
+      <div className={styles.Home__wrapper}>
+        <Headings data={data.headings} />
+        <Description data={data.description} />
+      </div>
     )
   }
 

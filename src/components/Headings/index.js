@@ -1,6 +1,7 @@
 /* @flow */
 
 import React from 'react'
+import CallToAction from '../CallToAction'
 
 import styles from './styles.scss'
 
@@ -10,7 +11,11 @@ const Headings = ({ data }: Props) => (
   <section className={styles.Headings}>
     <img className={styles.Headings__background} src={require('./assets/background.svg')} alt="background" />
     <div className={styles.Headings__wrapper}>
-      <h1>{ data.title }</h1>
+      <div className={styles.Headings__container}>
+        <h1>{ data.title }</h1>
+        <p>{ data.content }</p>
+        <CallToAction content="rejoindre le club" color={styles.CTA_color} />
+      </div>
     </div>
   </section>
 )
@@ -18,6 +23,7 @@ const Headings = ({ data }: Props) => (
 Headings.defaultProps = {
   data: {
     title: '',
+    content: '',
   },
 }
 
