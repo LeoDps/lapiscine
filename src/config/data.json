@@ -29,6 +29,33 @@
     }
   },
   "services": {
-    "title": "Un service sécurisé aux pointes de la technologie"
+    "title": "Un service sécurisé aux pointes de la technologie",
+    "subtitle": "Quoi qu'on en dise, le défis technique est important",
+    "services": [
+      {
+        "title": "Service numéro 1",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
+      }, {
+        "title": "Service numéro 2",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
+      }, {
+        "title": "Service numéro 3",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Une offre simple et abordable",
+    "subtitle": "Et en plus on est super sympa",
+    "price": "0.05",
+    "conditions": {
+      "content": "Garantie sans commissions et ",
+      "span": "sans colorants ni conservateurs"
+    },
+    "FirstSingleDescription" : {
+      "title": "Cartes et devises internationales",
+      "subtitle": "The best subtitle in the world",
+      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+    }
   }
 }

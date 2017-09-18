@@ -14,6 +14,7 @@ import styles from './styles.scss'
 import Headings from '../../components/Headings'
 import Description from '../../components/Description'
 import Services from '../../components/Services'
+import Pricing from '../../components/Pricing'
 
 type Props = {
   home: HomeType,
@@ -42,6 +43,7 @@ export class Home extends PureComponent {
         <Headings data={data.headings} />
         <Description data={data.description} />
         <Services data={data.services} />
+        <Pricing data={data.pricing} />
       </div>
     )
   }

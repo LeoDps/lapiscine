@@ -6,8 +6,8 @@ import styles from './styles.scss'
 
 type Props = { data: Array<Object> }
 
-const SingleDescription = ({ data }: Props) => (
-  <div className={styles.SingleDescription}>
+const SingleDescription = ({ data, style }: Props) => (
+  <div className={`${styles.SingleDescription} ${style}`}>
     <div className={styles.SingleDescription__icon} />
     <hr />
     <div className={styles.SingleDescription__container}>
