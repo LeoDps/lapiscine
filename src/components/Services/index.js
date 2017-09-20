@@ -1,6 +1,8 @@
 /* @flow */
 
 import React from 'react'
+import _ from 'lodash'
+
 import CallToAction from '../CallToAction'
 
 import styles from './styles.scss'
@@ -13,18 +15,19 @@ const Services = ({ data }: Props) => (
       <h2>{ data.title }</h2>
       <h3>{ data.subtitle }</h3>
       <div className={styles.Services__services}>
-        <div className={styles.Services__service}>
-          <h4>{ data.services[0].title }</h4>
-          <p>{ data.services[0].content }</p>
-        </div>
-        <div className={styles.Services__service}>
-          <h4>{ data.services[1].title }</h4>
-          <p>{ data.services[1].content }</p>
-        </div>
-        <div className={styles.Services__service}>
-          <h4>{ data.services[2].title }</h4>
-          <p>{ data.services[2].content }</p>
-        </div>
+        {
+          data.Services.map((service) => {
+            return (
+              <div
+                key={_.uniqueId()}
+                className={styles.Services__service}
+              >
+                <h4>{ service.title }</h4>
+                <p>{ service.content }</p>
+              </div>
+            )
+          })
+        }
       </div>
       <CallToAction content="DÉCOUVRIR TOUS NOS SERVICES" color={styles.CTA_color} />
     </div>

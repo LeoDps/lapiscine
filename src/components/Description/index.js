@@ -1,6 +1,8 @@
 /* @flow */
 
 import React from 'react'
+import _ from 'lodash'
+
 import CallToAction from '../CallToAction'
 import SingleDescription from '../SingleDescription'
 
@@ -18,10 +20,16 @@ const Description = ({ data }: Props) => (
           <p> { data.mainContent }</p>
           <CallToAction content="Obtenir plus d'informations" color={styles.CTA_color} />
           <div className={styles.Description__container__subContainer}>
-            <SingleDescription data={data.FirstSingleDescription} />
-            <SingleDescription data={data.SecondSingleDescription} />
-            <SingleDescription data={data.ThirdSingleDescription} />
-            <SingleDescription data={data.FourthSingleDescription} />
+            {
+              data.Descriptions.map((content) => {
+                return (
+                  <SingleDescription
+                    data={content}
+                    key={_.uniqueId()}
+                  />
+                )
+              })
+            }
           </div>
         </div>
       </div>

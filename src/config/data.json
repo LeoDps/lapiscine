@@ -7,31 +7,30 @@
     "mainTitle": "Suivez les meilleurs traders",
     "mainSubtitle": "The best subtitle in the world",
     "mainContent": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez",
-    "FirstSingleDescription" : {
-      "title": "The best title in the world",
-      "subtitle": "The best subtitle in the world",
-      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
-    },
-    "SecondSingleDescription" : {
-      "title": "The best title in the world",
-      "subtitle": "The best subtitle in the world",
-      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
-    },
-    "ThirdSingleDescription" : {
-      "title": "The best title in the world",
-      "subtitle": "The best subtitle in the world",
-      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
-    },
-    "FourthSingleDescription" : {
-      "title": "The best title in the world",
-      "subtitle": "The best subtitle in the world",
-      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
-    }
+    "Descriptions": [
+      {
+        "title": "The best title in the world",
+        "subtitle": "The best subtitle in the world",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+      }, {
+        "title": "The best title in the world",
+        "subtitle": "The best subtitle in the world",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+      }, {
+        "title": "The best title in the world",
+        "subtitle": "The best subtitle in the world",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+      }, {
+        "title": "The best title in the world",
+        "subtitle": "The best subtitle in the world",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+      }
+    ]
   },
   "services": {
     "title": "Un service sécurisé aux pointes de la technologie",
     "subtitle": "Quoi qu'on en dise, le défis technique est important",
-    "services": [
+    "Services": [
       {
         "title": "Service numéro 1",
         "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
@@ -52,10 +51,99 @@
       "content": "Garantie sans commissions et ",
       "span": "sans colorants ni conservateurs"
     },
-    "FirstSingleDescription" : {
-      "title": "Cartes et devises internationales",
-      "subtitle": "The best subtitle in the world",
-      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+    "Descriptions": [
+      {
+        "title": "Cartes et devises internationales",
+        "subtitle": "The best subtitle in the world",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+      }, {
+        "title": "Cartes et devises internationales",
+        "subtitle": "The best subtitle in the world",
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+      }
+    ],
+    "Services": [
+      [
+        {
+          "text": "Engagement sur les résultats"
+        }, {
+          "text": "Accès Discord VIP"
+        }, {
+          "text": "Accès à toutes les formations"
+        }, {
+          "text": "Choix des monnaies"
+        }
+      ], [
+        {
+          "text": "Transactions certifiés par nos traders"
+        }, {
+          "text": "Aide aux décisions"
+        }, {
+          "text": "Entraide entre tout les membres"
+        }, {
+          "text": "Suivi des résultats"
+        }
+      ]
+    ],
+    "disclaimer": {
+      "title": "Vous êtes responsable de l'argent que vous investissez",
+      "subtitle": "Fais belek à pas faire le con avec ton argent ça sera pas de notre faute",
+      "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
     }
+  },
+  "team": {
+    "title": "Que des numéros 10 dans ma team",
+    "subtitle": "Faites confiance à notre équipe d'élites",
+    "Team": [
+      {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }, {
+        "image": "antoine.jpg",
+        "name": "Antoine Lin",
+        "twitter": "https://twitter.com/ToineLIN",
+        "twitter_at": "@ToineLIN",
+        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+      }
+    ]
   }
 }

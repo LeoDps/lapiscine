@@ -12,6 +12,7 @@ import '../../theme/normalize.css'
 import styles from './styles.scss'
 
 import Header from '../../components/Header'
+import Footer from '../../components/Footer'
 
 export default () => {
   // Use it when sub routes are added to any route it'll work
@@ -34,6 +35,7 @@ export default () => {
       <Switch>
         {routes.map(route => routeWithSubRoutes(route))}
       </Switch>
+      <Footer />
     </div>
   )
 }

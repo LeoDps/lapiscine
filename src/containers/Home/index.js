@@ -15,6 +15,7 @@ import Headings from '../../components/Headings'
 import Description from '../../components/Description'
 import Services from '../../components/Services'
 import Pricing from '../../components/Pricing'
+import Team from '../../components/Team'
 
 type Props = {
   home: HomeType,
@@ -44,6 +45,7 @@ export class Home extends PureComponent {
         <Description data={data.description} />
         <Services data={data.services} />
         <Pricing data={data.pricing} />
+        <Team data={data.team} />
       </div>
     )
   }
