@@ -79,7 +79,8 @@ export class Home extends PureComponent {
   }
 
   render() {
-    const width = document.body.clientWidth
+    const isBrowser = typeof window !== 'undefined'
+    const width = isBrowser ? document.body.clientWidth : undefined
 
     const desktop = {
       position: 'fixed',
