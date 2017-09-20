@@ -79,9 +79,7 @@ export class Home extends PureComponent {
   }
 
   render() {
-    const width = window.innerWidth
-      || document.documentElement.clientWidth
-      || document.body.clientWidth
+    const width = document.body.clientWidth
 
     const desktop = {
       position: 'fixed',
