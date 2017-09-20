@@ -11,7 +11,6 @@ import routes from '../../routes'
 import '../../theme/normalize.css'
 import styles from './styles.scss'
 
-import Header from '../../components/Header'
 import Footer from '../../components/Footer'
 
 export default () => {
@@ -31,7 +30,6 @@ export default () => {
   return (
     <div className={styles.App}>
       <Helmet {...config.app} />
-      <Header />
       <Switch>
         {routes.map(route => routeWithSubRoutes(route))}
       </Switch>

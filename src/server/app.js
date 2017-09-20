@@ -35,7 +35,7 @@ const auth = require('http-auth')
 const basic = auth.basic({
   realm: 'La Piscine.gg',
 }, (username, password, callback) => {
-  callback(username === 'illuminati' && password === 'thekairi78')
+  callback(username === 'chartswarrior' && password === 'tothemoon')
 })
 
 const appDirectory = fs.realpathSync(process.cwd())

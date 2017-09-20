@@ -1,7 +1,34 @@
 .Home {
   width: 100vw;
+  overflow-x: hidden;
 }
 
 .Home__wrapper {
   width: 100%;
+}
+
+.Services {
+  padding: 30px 0;
+}
+
+.ToTop {
+  width: 40px;
+  height: 40px;
+  background-color: #fff;
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+  border-radius: 3px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+
+  @media screen and (max-width: 1045px) {
+    width: 60px;
+    height: 60px;
+  }
+}
+
+.ToTop:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
 }
