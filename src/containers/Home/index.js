@@ -51,7 +51,7 @@ export class Home extends PureComponent {
         <Target name="description">
           <Description data={data.description} />
         </Target>
-        <Target name="services" className={styles.Services}>
+        <Target name="services">
           <Services data={data.services} />
         </Target>
         <Target name="pricing">
@@ -80,7 +80,9 @@ export class Home extends PureComponent {
 
   render() {
     const isBrowser = typeof window !== 'undefined'
-    const width = isBrowser ? document.body.clientWidth : undefined
+    const width = isBrowser ? window.innerWidth
+      || document.documentElement.clientWidth
+      || document.body.clientWidth : undefined
 
     const desktop = {
       position: 'fixed',
