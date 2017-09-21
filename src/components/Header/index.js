@@ -39,18 +39,6 @@ const Header = () => (
         <li>
           <Link
             activeClass={styles.active}
-            to="pricing"
-            spy={true}
-            smooth={true}
-            duration={500}
-            style={{ cursor: 'pointer' }}
-          >
-            tarifs
-          </Link>
-        </li>
-        <li>
-          <Link
-            activeClass={styles.active}
             to="team"
             spy={true}
             smooth={true}
@@ -60,8 +48,20 @@ const Header = () => (
             l'équipe
           </Link>
         </li>
+        <li>
+          <Link
+            activeClass={styles.active}
+            to="pricing"
+            spy={true}
+            smooth={true}
+            duration={500}
+            style={{ cursor: 'pointer' }}
+          >
+            tarifs
+          </Link>
+        </li>
         <li className={styles.Header__callToAction}>
-          <CallToAction content="rejoindre le club" color={styles.CTA_color} />
+          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoindre le club" color={styles.CTA_color} />
         </li>
       </ul>
     </div>

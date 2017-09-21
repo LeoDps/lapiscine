@@ -232,6 +232,7 @@
     "file-loader": "^0.11.2",
     "flow-bin": "0.52.0",
     "fs-extra": "^4.0.1",
+    "gsap": "^1.20.2",
     "http": "^0.0.0",
     "http-auth": "^3.2.3",
     "image-webpack-loader": "^3.3.1",

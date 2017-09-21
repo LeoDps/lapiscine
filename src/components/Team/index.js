@@ -21,10 +21,16 @@ const Team = ({ data }: Props) => (
               className={styles.Team__member}
               key={_.uniqueId()}
             >
-              <a target="_blank" href={member.twitter} className={styles.Team__member__image}>
+              <a
+                target="_blank"
+                href={member.twitter}
+                className={styles.Team__member__image}
+                draggable="false"
+              >
                 <img
                   src={require(`./assets/${member.image}`)} // eslint-disable-line import/no-dynamic-require
                   alt={member.name}
+                  draggable="false"
                 />
               </a>
               <div className={styles.Team__member__infos}>

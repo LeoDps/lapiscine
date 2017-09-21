@@ -22,7 +22,7 @@ const Pricing = ({ data }: Props) => (
           <h5 className={styles.Pricing__price__h5}>
             { data.conditions.content } <span>{ data.conditions.span }</span>
           </h5>
-          <CallToAction content="rejoindre la piscine" color={styles.CTA_color} />
+          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoindre la piscine" color={styles.CTA_color} />
           <div className={styles.Pricing__description}>
             {
               data.Descriptions.map((content) => {
@@ -86,7 +86,7 @@ const Pricing = ({ data }: Props) => (
           <h2>{ data.disclaimer.title }</h2>
           <h3>{ data.disclaimer.subtitle }</h3>
           <p>{ data.disclaimer.content }</p>
-          <CallToAction content="termes et conditions" color={styles.CTA2_color} />
+          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="termes et conditions" color={styles.CTA2_color} />
         </div>
       </div>
     </div>

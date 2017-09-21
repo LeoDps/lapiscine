@@ -4,8 +4,8 @@ import React from 'react'
 
 import styles from './styles.scss'
 
-const CallToAction = ({ content, color }: String) => (
-  <a href="https://twitter.com/ToineLIN" className={`${styles.CallToAction} ${color}`} >
+const CallToAction = ({ link, content, color }: String) => (
+  <a href={link} className={`${styles.CallToAction} ${color}`} >
     { content }
   </a>
 )

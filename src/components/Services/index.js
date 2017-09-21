@@ -29,7 +29,7 @@ const Services = ({ data }: Props) => (
           })
         }
       </div>
-      <CallToAction content="DÉCOUVRIR TOUS NOS SERVICES" color={styles.CTA_color} />
+      <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="DÉCOUVRIR TOUS NOS SERVICES" color={styles.CTA_color} />
     </div>
     <div className={styles.Services__livefeed} />
   </section>

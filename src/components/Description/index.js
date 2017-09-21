@@ -18,7 +18,7 @@ const Description = ({ data }: Props) => (
           <h2>{ data.mainTitle }</h2>
           <h3>{ data.mainSubtitle }</h3>
           <p> { data.mainContent }</p>
-          <CallToAction content="Obtenir plus d'informations" color={styles.CTA_color} />
+          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="Obtenir plus d'informations" color={styles.CTA_color} />
           <div className={styles.Description__container__subContainer}>
             {
               data.Descriptions.map((content) => {

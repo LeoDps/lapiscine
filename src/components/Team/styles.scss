@@ -6,7 +6,7 @@
   position: relative;
   max-width: 1200px;
   width: 80%;
-  margin: 0 auto;
+  margin: 50px auto;
 
   h2,
   h3 {
@@ -20,7 +20,7 @@
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  margin: 70px 0;
+  margin: 70px 0 30px;
 
   @media screen and (max-width: 1045px) {
     flex-direction: column;

@@ -2,7 +2,7 @@ module.exports = {
   host: process.env.NODE_HOST || 'localhost', // Define your host from 'package.json'
   port: process.env.PORT,
   API: process.env.API_PORT,
-  GA: 'UA-46731966-16',
+  GA: 'UA-46731966-17',
   LOGS_PATH: 'logs',
   app: {
     htmlAttributes: { lang: 'fr' },

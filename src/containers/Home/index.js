@@ -51,14 +51,14 @@ export class Home extends PureComponent {
         <Target name="description">
           <Description data={data.description} />
         </Target>
-        <Target name="services">
+        <Target name="services" className={styles.Services}>
           <Services data={data.services} />
-        </Target>
-        <Target name="pricing">
-          <Pricing data={data.pricing} />
         </Target>
         <Target name="team">
           <Team data={data.team} />
+        </Target>
+        <Target name="pricing">
+          <Pricing data={data.pricing} />
         </Target>
       </div>
     )
