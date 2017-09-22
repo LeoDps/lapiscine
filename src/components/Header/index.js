@@ -61,7 +61,7 @@ const Header = () => (
           </Link>
         </li>
         <li className={styles.Header__callToAction}>
-          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoindre le club" color={styles.CTA_color} />
+          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoindre le vip" color={styles.CTA_color} />
         </li>
       </ul>
     </div>

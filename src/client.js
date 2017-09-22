@@ -16,10 +16,15 @@ ReactGA.initialize(GA)
 // Get initial state from server-side rendering
 const initialState = window.__INITIAL_STATE__
 const history = createHistory()
-history.listen((location) => {
+
+const historyListener = (location) => {
   ReactGA.set({ page: location.pathname })
   ReactGA.pageview(location.pathname)
-})
+}
+
+history.listen(historyListener)
+historyListener(window.location)
+
 const store = configureStore(history, initialState)
 const mountNode = document.getElementById('react-view')
 

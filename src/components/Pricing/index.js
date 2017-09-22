@@ -86,7 +86,7 @@ const Pricing = ({ data }: Props) => (
           <h2>{ data.disclaimer.title }</h2>
           <h3>{ data.disclaimer.subtitle }</h3>
           <p>{ data.disclaimer.content }</p>
-          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="termes et conditions" color={styles.CTA2_color} />
+          <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoignez-nous" color={styles.CTA2_color} />
         </div>
       </div>
     </div>

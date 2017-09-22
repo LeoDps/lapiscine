@@ -1,23 +1,23 @@
 {
   "headings": {
-    "title": "Le VIP n°1 des cryptomonnaies",
-    "content": "Sautez dans le bain du trading de crypto monnaies, et passez à la vitesse supérieure en rejoignant La Piscine."
+    "title": "Le trading de crypto monnaies à votre portée",
+    "content": "Sautez dans le bain des cryptomonnaies et passez à la vitesse supérieur en rejoignant La Piscine"
   },
   "description": {
-    "mainTitle": "Suivez les meilleurs traders",
+    "mainTitle": "Dans La Piscine, apprenez à nager avec les baleines.",
     "mainSubtitle": "The best subtitle in the world",
     "mainContent": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez",
     "Descriptions": [
       {
-        "title": "The best title in the world",
+        "title": "Echangez avec des trader confirmés",
         "subtitle": "The best subtitle in the world",
         "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
       }, {
-        "title": "The best title in the world",
+        "title": "Accédez à des analyses poussées",
         "subtitle": "The best subtitle in the world",
         "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
       }, {
-        "title": "The best title in the world",
+        "title": "Analyses sur demandes",
         "subtitle": "The best subtitle in the world",
         "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
       }, {
@@ -28,28 +28,56 @@
     ]
   },
   "services": {
-    "title": "Un service sécurisé aux pointes de la technologie",
-    "subtitle": "Quoi qu'on en dise, le défis technique est important",
+    "title": "Sautez dans le grand bassin",
+    "subtitle": "Pour ne pas perdre pieds, on vous apporte ces trois composantes du trading :",
     "Services": [
       {
-        "title": "Service numéro 1",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
+        "title": "Analyse fondamentale",
+        "content": "L’analyse fondamentale (AF) consiste à étudier les fondements d’un projet (Aspects techniques, équipe, roadmap, vision …) afin d’identifier les projets prometteurs. L’AF permet de choisir les projets sur lesquels se placer, elle répond à la question “Dans quoi investir ?” Grâce aux analystes de la piscine, évitez les projets qui prennent l’eau."
       }, {
-        "title": "Service numéro 2",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
+        "title": "Analyse technique",
+        "content": "L’analyse technique (AT) consiste à interpréter les variations de cours, afin de mieux comprendre la psychologie du marché, et ainsi de mieux anticiper l’évolution des prix. L’AT permet de choisir les bons timing. Elle répond aux questions  “Quand acheter, quand vendre ?”. Dans La Piscine, se sont des traders expérimentés qui publient des AT et les expliquent."
       }, {
-        "title": "Service numéro 3",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
+        "title": "L’Expérience",
+        "content": "L’analyse technique et l’analyse fondamentale demandent un peu d’expérience et de pratique afin d’éviter certains écueils. En rejoignant La Piscine, vous bénéficierez de l’expertise de plusieurs crypto traders confirmés. Quelles que soient vos connaissances, vous aurez accès à tous les outils pour faire le grand plongeon."
+      }
+    ],
+    "Results": [
+      {
+        "coin": "ripple.svg",
+        "buy": "2560",
+        "sell": "22360",
+        "percent": "730"
+      }, {
+        "coin": "ripple.svg",
+        "buy": "2560",
+        "sell": "22360",
+        "percent": "730"
+      }, {
+        "coin": "ripple.svg",
+        "buy": "2560",
+        "sell": "22360",
+        "percent": "730"
+      }, {
+        "coin": "ripple.svg",
+        "buy": "2560",
+        "sell": "22360",
+        "percent": "730"
+      }, {
+        "coin": "ripple.svg",
+        "buy": "2560",
+        "sell": "22360",
+        "percent": "730"
       }
     ]
   },
   "pricing": {
     "title": "Une offre simple et abordable",
     "subtitle": "Et en plus on est super sympa",
-    "price": "0.05",
+    "price": "0.05 BTC",
     "conditions": {
-      "content": "Garantie sans commissions et ",
-      "span": "sans colorants ni conservateurs"
+      "content": "Pour accéder à l'intégrale",
+      "span": "de tout notre contenu"
     },
     "Descriptions": [
       {
@@ -65,19 +93,19 @@
     "Services": [
       [
         {
-          "text": "Engagement sur les résultats"
+          "text": "Analyses sur demandes"
         }, {
           "text": "Accès Discord VIP"
         }, {
-          "text": "Accès à toutes les formations"
+          "text": "Analyses techniques"
         }, {
-          "text": "Choix des monnaies"
+          "text": "Réponses à vos questions"
         }
       ], [
         {
-          "text": "Transactions certifiés par nos traders"
+          "text": "Analyses fondamentales"
         }, {
-          "text": "Aide aux décisions"
+          "text": "Aide à la prise de décisions"
         }, {
           "text": "Entraide entre tout les membres"
         }, {
@@ -86,13 +114,13 @@
       ]
     ],
     "disclaimer": {
-      "title": "Vous êtes responsable de l'argent que vous investissez",
+      "title": "La Piscine n'attend plus que vous",
       "subtitle": "Fais belek à pas faire le con avec ton argent ça sera pas de notre faute",
       "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez"
     }
   },
   "team": {
-    "title": "Que des numéros 10 dans ma team",
+    "title": "Votre activité sous la surveillance de nos maîtres nageurs",
     "subtitle": "Faites confiance à notre équipe d'élites",
     "Team": [
       {

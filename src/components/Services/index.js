@@ -31,7 +31,25 @@ const Services = ({ data }: Props) => (
       </div>
       <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="DÉCOUVRIR TOUS NOS SERVICES" color={styles.CTA_color} />
     </div>
-    <div className={styles.Services__livefeed} />
+    <ul className={styles.Services__results}>
+      {
+        /* eslint-disable */
+        data.Results.map((result) => {
+          return (
+            <li
+              key={_.uniqueId()}
+              className={styles.Services__result}
+            >
+              <img src={require(`./assets/${result.coin}`)} alt="cryptocurrency logo" />
+              <h5>Buy price <span>{result.buy} sats</span></h5>
+              <h5>Sell price <span>{result.sell} sats</span></h5>
+              <h4>+{result.percent}%</h4>
+            </li>
+          )
+        })
+        /* eslint-enable */
+      }
+    </ul>
   </section>
 )
 

@@ -7,7 +7,6 @@ import { connect } from 'react-redux'
 import type { Connector } from 'react-redux'
 import Helmet from 'react-helmet'
 import Scroll, { Element as Target } from 'react-scroll'
-import ScrollToTop from 'react-scroll-up'
 import Header from '../../components/Header'
 
 import * as action from './action'
@@ -79,57 +78,10 @@ export class Home extends PureComponent {
   }
 
   render() {
-    const isBrowser = typeof window !== 'undefined'
-    const width = isBrowser ? window.innerWidth
-      || document.documentElement.clientWidth
-      || document.body.clientWidth : undefined
-
-    const desktop = {
-      position: 'fixed',
-      bottom: 50,
-      right: 50,
-      zIndex: 1000,
-      cursor: 'pointer',
-      transitionDuration: '0.2s',
-      transitionTimingFunction: 'linear',
-      transitionDelay: '0s',
-    }
-    const mobile = {
-      position: 'fixed',
-      bottom: 20,
-      right: 20,
-      zIndex: 1000,
-      cursor: 'pointer',
-      transitionDuration: '0.2s',
-      transitionTimingFunction: 'linear',
-      transitionDelay: '0s',
-    }
-    let style
-    if (width > 1045) {
-      style = desktop
-    } else {
-      style = mobile
-    }
     return (
       <div className={styles.Home}>
         <Helmet title="Home" />
         <Header />
-        <ScrollToTop
-          showUnder={500}
-          duration={500}
-          style={style}
-        >
-          <div className={styles.ToTop}>
-            <svg width="12px" height="6px" viewBox="0 0 12 6">
-              <defs />
-              <g stroke="none" strokeWidth="1" fill="none" fillRule="evenodd" fillOpacity="1">
-                <g transform="translate(-1534.000000, -4219.000000)" fillRule="nonzero" fill="#4A4A4A">
-                  <polygon points="1534 4225 1540 4219 1546 4225" />
-                </g>
-              </g>
-            </svg>
-          </div>
-        </ScrollToTop>
         {this.renderComponents()}
       </div>
     )
