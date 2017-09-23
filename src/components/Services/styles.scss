@@ -1,7 +1,7 @@
 .Services {
   width: 80%;
   max-width: 1200px;
-  margin: 20px auto;
+  margin: 80px auto;
   z-index: 2;
   position: relative;
   display: flex;
@@ -13,6 +13,10 @@
     flex-direction: column;
     align-items: flex-start;
   }
+
+  @media screen and (max-width: 600px) {
+    margin: 20px auto;
+  }
 }
 
 .Services__container {
@@ -23,6 +27,7 @@
   @media screen and (max-width: 600px) {
     align-items: center;
     text-align: center;
+    margin: 100px 0 30px;
   }
 }
 
@@ -59,8 +64,8 @@
 
   @media screen and (max-width: 1045px) {
     width: 100%;
-    margin: 50px 0;
     min-width: 0;
+    margin: 50px 0 0;
   }
 
   .Services__result {
@@ -74,10 +79,17 @@
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
+    transition: 200ms ease-out;
+
+    img {
+      height: 50%;
+      width: auto;
+    }
 
     h4 {
       font-size: 16px;
       color: #3ecf8e;
+      cursor: default;
     }
 
     h5 {
@@ -85,6 +97,7 @@
       font-size: 14px;
       font-style: italic;
       color: #9b9b9b;
+      cursor: default;
     }
 
     span {
@@ -92,6 +105,12 @@
       font-weight: 700;
       font-style: normal;
       margin: 0 5px;
+      cursor: default;
     }
+  }
+
+  .Services__result:hover {
+    transform: scale(1.1);
+    box-shadow: 0 7px 14px rgba(50, 50, 93, 0.1), 0 3px 6px rgba(0, 0, 0, 0.08);
   }
 }

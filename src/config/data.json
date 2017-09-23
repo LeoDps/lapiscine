@@ -44,7 +44,12 @@
     ],
     "Results": [
       {
-        "coin": "ripple.svg",
+        "coin": "ark.svg",
+        "buy": "2560",
+        "sell": "22360",
+        "percent": "730"
+      }, {
+        "coin": "bat.svg",
         "buy": "2560",
         "sell": "22360",
         "percent": "730"
@@ -54,17 +59,12 @@
         "sell": "22360",
         "percent": "730"
       }, {
-        "coin": "ripple.svg",
+        "coin": "pay.svg",
         "buy": "2560",
         "sell": "22360",
         "percent": "730"
       }, {
-        "coin": "ripple.svg",
-        "buy": "2560",
-        "sell": "22360",
-        "percent": "730"
-      }, {
-        "coin": "ripple.svg",
+        "coin": "xvg.svg",
         "buy": "2560",
         "sell": "22360",
         "percent": "730"
