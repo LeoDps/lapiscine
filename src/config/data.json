@@ -5,7 +5,7 @@
   },
   "description": {
     "mainTitle": "Avec La Piscine, plongez dans l'univers des cryptomonnaies",
-    "mainSubtitle": "Bitcoin , Ethereum , altcoins...",
+    "mainSubtitle": "Bitcoin , Ethereum , Altcoins...",
     "mainContent": "La Piscine vous offre une vision à 360 degré : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines",
     "Descriptions": [
       {
@@ -81,13 +81,13 @@
     },
     "Descriptions": [
       {
-        "title": "Cartes et devises internationales",
-        "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+        "title": "Retours sur investissements",
+        "subtitle": "Plus rentable que votre livret A",
+        "content": "En rejoignant La Piscine, nos experts mettront à disposition et de façon journalière des signaux de très bonne qualité qui vous permettront de maximiser vos profits."
       }, {
-        "title": "Cartes et devises internationales",
-        "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+        "title": "Vous êtes encore novice ?",
+        "subtitle": "Faites le grand saut",
+        "content": "L’ensemble de l’équipe La Piscine s’engage à produire des articles & des analyses techniques sous forme de formation qui sauront vous faire progresser dans le trading des crypto monnaies."
       }
     ],
     "Services": [
@@ -121,7 +121,7 @@
   },
   "team": {
     "title": "Votre activité sous la surveillance de nos maîtres nageurs",
-    "subtitle": "Faites confiance à notre équipe d'élites",
+    "subtitle": "Une équipe pluricompétente à votre disposition",
     "Team": [
       {
         "image": "antoine.jpg",

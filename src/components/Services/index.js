@@ -29,7 +29,7 @@ const Services = ({ data }: Props) => (
           })
         }
       </div>
-      <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="DÉCOUVRIR TOUS NOS SERVICES" color={styles.CTA_color} />
+      <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="Faire appel à nos services" color={styles.CTA_color} />
     </div>
     <ul className={styles.Services__results}>
       {
