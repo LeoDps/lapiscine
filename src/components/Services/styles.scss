@@ -15,6 +15,7 @@
   }
 
   @media screen and (max-width: 600px) {
+    width: 85%;
     margin: 20px auto;
   }
 }
@@ -25,8 +26,8 @@
   align-items: flex-start;
 
   @media screen and (max-width: 600px) {
-    align-items: center;
-    text-align: center;
+    align-items: flex-start;
+    text-align: left;
     margin: 100px 0 30px;
   }
 }
@@ -41,10 +42,6 @@
     margin: 0;
     transition: 200ms;
     max-width: 650px;
-  }
-
-  p:hover {
-    opacity: 0.8;
   }
 }
 
@@ -68,6 +65,12 @@
     margin: 50px 0 0;
   }
 
+  @media screen and (max-width: 600px) {
+    width: 100%;
+    min-width: 0;
+    margin: 20px 0;
+  }
+
   .Services__result {
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
@@ -84,12 +87,24 @@
     img {
       height: 50%;
       width: auto;
+
+      @media screen and (max-width: 600px) {
+        height: 40%;
+      }
+
+      @media screen and (max-width: 400px) {
+        height: 30%;
+      }
     }
 
     h4 {
       font-size: 16px;
       color: #3ecf8e;
       cursor: default;
+
+      @media screen and (max-width: 600px) {
+        font-size: 12px;
+      }
     }
 
     h5 {
@@ -98,6 +113,10 @@
       font-style: italic;
       color: #9b9b9b;
       cursor: default;
+
+      @media screen and (max-width: 600px) {
+        font-size: 10px;
+      }
     }
 
     span {
@@ -106,6 +125,11 @@
       font-style: normal;
       margin: 0 5px;
       cursor: default;
+
+      @media screen and (max-width: 600px) {
+        margin: 0 2px;
+        font-size: 12px;
+      }
     }
   }
 

@@ -14,6 +14,10 @@ h2 {
   color: #4a4a4a;
   letter-spacing: -1px;
   margin: 0;
+
+  @media screen and (max-width: 600px) {
+    font-size: 20px;
+  }
 }
 
 h3 {
@@ -23,11 +27,15 @@ h3 {
   font-weight: lighter;
   letter-spacing: -0.67px;
   margin: 0;
+
+  @media screen and (max-width: 600px) {
+    font-size: 14px;
+  }
 }
 
 h4 {
   font-family: 'Open Sans', Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   color: #4a4a4a;
   font-weight: 700;
   letter-spacing: -0.25px;
@@ -64,7 +72,7 @@ a {
 
 p {
   font-family: 'Open Sans', Helvetica, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   color: #fff;
   letter-spacing: -0.25px;
   line-height: 20px;

@@ -4,6 +4,10 @@
   max-width: 1200px;
   margin: 0 auto;
   z-index: 0;
+
+  @media screen and (max-width: 600px) {
+    width: 85%;
+  }
 }
 .Headings__background {
   position: absolute;

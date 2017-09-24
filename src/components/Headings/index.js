@@ -57,7 +57,7 @@ export default class Headings extends PureComponent {
           <div className={styles.Headings__container}>
             <h1>{ data.title }</h1>
             <h3>{ data.content }</h3>
-            <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoindre le vip" color={styles.CTA_color} />
+            <CallToAction link="https://goo.gl/forms/fwZhx1l6oLXRwWKA2" content="rejoindre le vip dès maintenant" color={styles.CTA_color} />
           </div>
           <div ref={el => this.scene = el} className={styles.Headings__tokens}>
             <div

@@ -1,12 +1,12 @@
 {
   "headings": {
     "title": "Le trading de crypto monnaies à votre portée",
-    "content": "Sautez dans le bain des cryptomonnaies et passez à la vitesse supérieur en rejoignant La Piscine"
+    "content": "Sautez dans le bain des cryptomonnaies et passez à la vitesse supérieure en rejoignant La Piscine"
   },
   "description": {
-    "mainTitle": "Dans La Piscine, apprenez à nager avec les baleines.",
-    "mainSubtitle": "The best subtitle in the world",
-    "mainContent": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée pour les cavistes. Grâce à des fonctionnalités et des services adaptés tels que la gestion de stock des vins, des rapports de ventes, l’encaissement et la gestion de vos clients, Wino vous permet de gérer votre cave comme vous le souhaitez, où que vous soyez",
+    "mainTitle": "Avec La Piscine, plongez dans l'univers des cryptomonnaies",
+    "mainSubtitle": "Bitcoin , Ethereum , altcoins...",
+    "mainContent": "La Piscine vous offre une vision à 360 degré : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines",
     "Descriptions": [
       {
         "title": "Echangez avec des trader confirmés",
@@ -29,7 +29,7 @@
   },
   "services": {
     "title": "Sautez dans le grand bassin",
-    "subtitle": "Pour ne pas perdre pieds, on vous apporte ces trois composantes du trading :",
+    "subtitle": "Ne perdez pas pieds grâce à ces trois composantes du trading",
     "Services": [
       {
         "title": "Analyse fondamentale",
@@ -45,29 +45,29 @@
     "Results": [
       {
         "coin": "ark.svg",
-        "buy": "2560",
-        "sell": "22360",
-        "percent": "730"
+        "buy": "20000",
+        "sell": "81234",
+        "percent": "306"
       }, {
-        "coin": "bat.svg",
-        "buy": "2560",
-        "sell": "22360",
-        "percent": "730"
-      }, {
-        "coin": "ripple.svg",
-        "buy": "2560",
-        "sell": "22360",
-        "percent": "730"
+        "coin": "strat.svg",
+        "buy": "14000",
+        "sell": "40506",
+        "percent": "189"
       }, {
         "coin": "pay.svg",
-        "buy": "2560",
-        "sell": "22360",
-        "percent": "730"
+        "buy": "33468",
+        "sell": "151739",
+        "percent": "353"
+      }, {
+        "coin": "xrp.svg",
+        "buy": "800",
+        "sell": "20765",
+        "percent": "2259"
       }, {
         "coin": "xvg.svg",
-        "buy": "2560",
-        "sell": "22360",
-        "percent": "730"
+        "buy": "44",
+        "sell": "196",
+        "percent": "345"
       }
     ]
   },
@@ -128,7 +128,7 @@
         "name": "Antoine Lin",
         "twitter": "https://twitter.com/ToineLIN",
         "twitter_at": "@ToineLIN",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "Étudiant et entrepreneur, responsable développement (CTO) chez Team Vitality et creative developer freelance. Designer et motion designer à ses heures"
       }, {
         "image": "tonton.jpg",
         "name": "Le Tonton",
@@ -158,19 +158,19 @@
         "name": "Maxime xDay",
         "twitter": "https://twitter.com/xDayKami",
         "twitter_at": "@xDayKami",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "Agent et expert immobilier, investisseur dans la crypto, chart addict"
       }, {
         "image": "leo.jpg",
         "name": "Léonard Dupuis",
         "twitter": "https://twitter.com/LeoDpsGG",
         "twitter_at": "@LeoDpsGG",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "Étudiant et entrepreneur, actuellement chez Team Vitality, La Baleine. Précédemment Fondateur & CEO de Rewards.gg"
       }, {
         "image": "capet.jpg",
         "name": "Capetlevrai",
         "twitter": "https://twitter.com/Capetlevrai",
         "twitter_at": "@Capetlevrai",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "YouTuber / Streamer spécialisé informatique & eSport, co-fondateur La Baleine. Aime entreprendre et véhiculer le plaisir d’entreprendre à son tour. Ex mythiX et Epsilon eSports"
       }
     ]
   }

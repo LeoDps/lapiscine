@@ -41,8 +41,8 @@ const Services = ({ data }: Props) => (
               className={styles.Services__result}
             >
               <img src={require(`./assets/${result.coin}`)} alt="cryptocurrency logo" />
-              <h5>Buy price <span>{result.buy} sats</span></h5>
-              <h5>Sell price <span>{result.sell} sats</span></h5>
+              <h5>Buy price <span>{result.buy}</span></h5>
+              <h5>Sell price <span>{result.sell}</span></h5>
               <h4>+{result.percent}%</h4>
             </li>
           )

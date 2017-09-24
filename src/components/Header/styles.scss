@@ -20,7 +20,7 @@
   @media screen and (max-width: 465px) {
     flex-direction: column;
     justify-content: center;
-    height: 180px;
+    height: 150px;
   }
 
   h2 {
@@ -39,8 +39,7 @@
     align-items: center;
 
     @media screen and (max-width: 465px) {
-      padding: 0;
-      margin-top: 25px;
+      display: none;
     }
 
     li {

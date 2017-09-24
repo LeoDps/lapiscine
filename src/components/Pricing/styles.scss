@@ -5,6 +5,10 @@
   margin: 50px 0 -200px;
   display: flex;
   flex-direction: column;
+
+  @media screen and (max-width: 600px) {
+    margin: 0 0 -200px;
+  }
 }
 
 .Pricing__background {
@@ -34,6 +38,11 @@
     font-weight: normal;
     text-align: center;
   }
+
+  @media screen and (max-width: 600px) {
+    width: 85%;
+    margin: 60px auto;
+  }
 }
 
 .Pricing__price {
@@ -50,6 +59,7 @@
   }
 
   @media screen and (max-width: 600px) {
+    margin: 50px auto 0;
     padding: 30px 0;
   }
 
@@ -60,6 +70,10 @@
     flex-direction: column;
     align-items: center;
     justify-content: flex-start;
+
+    @media screen and (max-width: 600px) {
+      width: 85%;
+    }
   }
 
   h2.Pricing__price__h2 {
@@ -70,14 +84,21 @@
     font-family: 'Open Sans', Helvetica, sans-serif;
 
     @media screen and (max-width: 600px) {
-      font-size: 48px;
+      font-size: 40px;
+    }
+
+    @media screen and (max-width: 320px) {
+      font-size: 32px;
     }
 
     span {
       color: #4a4a4a;
       font-size: 24px;
-      // font-family: 'Open Sans', Helvetica, sans-serif;
       font-family: 'Montserrat', Helvetica, sans-serif;
+
+      @media screen and (max-width: 600px) {
+        font-size: 16px;
+      }
     }
   }
 
@@ -88,6 +109,11 @@
   .Pricing__description {
     margin: 20px 0;
     padding: 0 10%;
+
+    @media screen and (max-width: 600px) {
+      margin: 0;
+      padding: 0;
+    }
 
     &__services {
       padding: 0;
@@ -168,10 +194,6 @@
         text-align: center;
       }
     }
-
-    p:hover {
-      opacity: 0.8;
-    }
   }
 }
 
@@ -186,7 +208,7 @@
   transform: translateY(-200px);
 
   @media screen and (max-width: 600px) {
-    padding: 50px 40px;
+    padding: 40px 30px;
   }
 
   p {
@@ -207,6 +229,10 @@
   background-color: #699ff6;
   color: #fff;
   margin: 40px 0 20px;
+
+  @media screen and (max-width: 600px) {
+    margin: 30px 0;
+  }
 }
 
 .CTA2_color {
