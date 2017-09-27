@@ -8,8 +8,10 @@ import styles from './styles.scss'
 
 export default () => (
   <div className={styles.NotFound}>
-    <Helmet title="Not found" />
-    <h1>Oups, il semblerait que la page que vous recherchez n'existe pas</h1>
-    <Link className={styles.NotFound__link} to="/">Retourner sur la page d'accueil</Link>
+    <div className={styles.NotFound__container}>
+      <Helmet title="Not found" />
+      <h1>Oups, il semblerait que la page que vous recherchez n'existe pas</h1>
+      <Link className={styles.NotFound__link} to="/">Retourner sur la page d'accueil</Link>
+    </div>
   </div>
 )
