@@ -11,19 +11,23 @@
       {
         "title": "Echangez avec des trader confirmés",
         "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "icon": "3.svg"
       }, {
         "title": "Accédez à des analyses poussées",
         "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "icon": "1.svg"
       }, {
         "title": "Analyses sur demandes",
         "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "icon": "6.svg"
       }, {
         "title": "The best title in the world",
         "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée."
+        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "icon": "4.svg"
       }
     ]
   },
@@ -83,11 +87,13 @@
       {
         "title": "Retours sur investissements",
         "subtitle": "Plus rentable que votre livret A",
-        "content": "En rejoignant La Piscine, nos experts mettront à disposition et de façon journalière des signaux de très bonne qualité qui vous permettront de maximiser vos profits."
+        "content": "En rejoignant La Piscine, nos experts mettront à disposition et de façon journalière des signaux de très bonne qualité qui vous permettront de maximiser vos profits.",
+        "icon": "7.svg"
       }, {
         "title": "Vous êtes encore novice ?",
         "subtitle": "Faites le grand saut",
-        "content": "L’ensemble de l’équipe La Piscine s’engage à produire des articles & des analyses techniques sous forme de formation qui sauront vous faire progresser dans le trading des crypto monnaies."
+        "content": "L’ensemble de l’équipe La Piscine s’engage à produire des articles & des analyses techniques sous forme de formation qui sauront vous faire progresser dans le trading des crypto monnaies.",
+        "icon": "2.svg"
       }
     ],
     "Services": [
@@ -134,13 +140,13 @@
         "name": "Le Tonton",
         "twitter": "https://twitter.com/LeTonton_",
         "twitter_at": "@LeTonton_",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "Etudie le marché des crypto monnaies depuis + de 9 mois maintenant. Est passionné par la psychologie présent sur les marchés. Spécialisé dans l'analyse technique."
       }, {
         "image": "jeremy.jpg",
         "name": "Jeremy",
         "twitter": "https://twitter.com/Limace_",
         "twitter_at": "@Limace_",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "Co-fondateur de la communauté “La Baleine”, étudiant en électronique. Développeur à ses heures perdus. Passionné par l’intelligence financière et l’entreprenariat. "
       }, {
         "image": "kiwi.jpg",
         "name": "Kiwi",
@@ -152,7 +158,7 @@
         "name": "Brykou",
         "twitter": "https://twitter.com/Brykou",
         "twitter_at": "@Brykou",
-        "content": "Responsable developpement chez Vitality, Antoine est responsable technique (CTO) chez LaPiscine et depuis le départ nous hard carry."
+        "content": "Passionné d’intelligence financière, je m’intéresse à la bourse depuis quelques temps déjà. J’ai commencé à investir dans les crypto début 2017. J’ai fait d’importants profits, mais aussi de grosses erreurs. Dans La Piscine, je vais partager mon expérience et ma connaissance avec vous."
       }, {
         "image": "xday.jpg",
         "name": "Maxime xDay",

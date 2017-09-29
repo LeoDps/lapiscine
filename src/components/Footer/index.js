@@ -26,7 +26,7 @@ const Footer = () => (
       </div>
     </div>
     <div className={styles.Footer__legals}>
-      <h4>Lire nos <span>termes et conditions légales</span></h4>
+      {/* <h4>Lire nos <span>termes et conditions légales</span></h4> */}
       <h5>©2017 LaPiscine | All rigths reserved.</h5>
     </div>
   </footer>
