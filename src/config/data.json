@@ -6,27 +6,27 @@
   "description": {
     "mainTitle": "Avec La Piscine, plongez dans l'univers des cryptomonnaies",
     "mainSubtitle": "Bitcoin , Ethereum , Altcoins...",
-    "mainContent": "La Piscine vous offre une vision à 360 degré : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines",
+    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines",
     "Descriptions": [
       {
         "title": "Echangez avec des trader confirmés",
-        "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "subtitle": "Gagnez du temps",
+        "content": "La Piscine est un nid de traders confirmés aux backgrounds différents et pertinents. Nous rejoindre vous permettra d’échanger avec ces personnes et vous permettront de gagner en expérience.",
         "icon": "3.svg"
       }, {
-        "title": "Accédez à des analyses poussées",
-        "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "title": "Signaux & Analyses 24/7",
+        "subtitle": "La réactivité, une force",
+        "content": "Dans le monde des crypto monnaies l’argent ne dort jamais, le marché est continuellement actif. Une équipe capable de vous fournir des signaux et analyses à tout moment est essentielle.",
         "icon": "1.svg"
       }, {
         "title": "Analyses sur demandes",
-        "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "subtitle": "Nos analystes à votre disposition",
+        "content": "Une monnaie vous intéresse, mais vous ne savez pas quand entrer ? Le projet a l’air intéressant mais vous n’avez pas tout compris ?  Nous serons là pour vous faire des analyses techniques et fondamentales sur demande !",
         "icon": "6.svg"
       }, {
-        "title": "The best title in the world",
-        "subtitle": "The best subtitle in the world",
-        "content": "Il existe aujourd’hui sur le marché de multiples logiciels de caisse enregistreuse. Wino se différencie en proposant une caisse connectée spécialisée.",
+        "title": "Formation complète",
+        "subtitle": "Montez d’un niveau",
+        "content": "Avec notre formation gagnez en indépendance et apprenez toutes les bases indispensables du trading. Ainsi, réaliser vos propres analyses et gérer votre portefeuille n’aura jamais été aussi simple.",
         "icon": "4.svg"
       }
     ]
@@ -143,7 +143,7 @@
         "content": "Etudie le marché des crypto monnaies depuis + de 9 mois maintenant. Est passionné par la psychologie présent sur les marchés. Spécialisé dans l'analyse technique."
       }, {
         "image": "jeremy.jpg",
-        "name": "Jeremy",
+        "name": "Jérémy",
         "twitter": "https://twitter.com/Limace_",
         "twitter_at": "@Limace_",
         "content": "Co-fondateur de la communauté “La Baleine”, étudiant en électronique. Développeur à ses heures perdus. Passionné par l’intelligence financière et l’entreprenariat. "
@@ -158,13 +158,13 @@
         "name": "Brykou",
         "twitter": "https://twitter.com/Brykou",
         "twitter_at": "@Brykou",
-        "content": "Passionné d’intelligence financière, je m’intéresse à la bourse depuis quelques temps déjà. J’ai commencé à investir dans les crypto début 2017. J’ai fait d’importants profits, mais aussi de grosses erreurs. Dans La Piscine, je vais partager mon expérience et ma connaissance avec vous."
+        "content": "Passionné d’intelligence financière, je m’intéresse à la bourse depuis quelques temps déjà. J’ai commencé à investir dans les crypto début 2017."
       }, {
         "image": "xday.jpg",
         "name": "Maxime xDay",
         "twitter": "https://twitter.com/xDayKami",
         "twitter_at": "@xDayKami",
-        "content": "Agent et expert immobilier, investisseur dans la crypto, chart addict"
+        "content": "Trader part time, investisseur dans la crypto, chart addict"
       }, {
         "image": "leo.jpg",
         "name": "Léonard Dupuis",
