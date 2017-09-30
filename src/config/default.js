@@ -12,6 +12,7 @@ module.exports = {
       { name: 'description', content: 'Bitcoins and cryptocurrencies VIP club' },
       { name: 'author', content: 'Antoine Lin <contact@antoinelin.com>' },
       { name: 'robots', content: 'index, follow' },
+      { name: 'google-site-verification', content: '_2EmM6ICCFSlEL9P9hEdOp_nh1lQaUDOaJPk1AU7MmY' },
       // IE META
       { name: 'msapplication-tap-highlight', content: 'no' },
       // APPLE META
