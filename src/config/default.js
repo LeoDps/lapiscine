@@ -7,7 +7,7 @@ module.exports = {
   app: {
     htmlAttributes: { lang: 'fr' },
     title: 'La Piscine - Le trading de crypto monnaies à votre portée',
-    titleTemplate: 'La Piscine - %s',
+    titleTemplate: 'La Piscine - Le trading de crypto monnaies à votre portée',
     meta: [
       { name: 'description', content: 'Sautez dans le bain des cryptomonnaies et passez à la vitesse supérieure en rejoignant La Piscine' },
       { name: 'author', content: 'Antoine Lin <contact@antoinelin.com>' },
@@ -24,14 +24,14 @@ module.exports = {
       { name: 'format-detection', content: 'telephone=no' },
       // FACEBOOK META
       { property: 'og:type', content: 'website' },
-      { property: 'og:url', content: 'http://beta.lapiscine.gg' },
+      { property: 'og:url', content: 'http://lapiscine.gg' },
       { property: 'og:image', content: 'https://facebook.github.io/react/img/logo_og.png' },
       { property: 'og:site_name', content: 'lapiscine.gg' },
       { property: 'og:title', content: 'lapiscine.gg' },
       { property: 'og:description', content: 'Bitcoins and cryptocurrencies VIP club' },
       // TWITTER META
       { name: 'twitter:card', content: 'summary' },
-      { name: 'twitter:url', content: 'http://beta.lapiscine.gg' },
+      { name: 'twitter:url', content: 'http://lapiscine.gg' },
       { name: 'twitter:site', content: 'lapiscine.gg' },
       { name: 'twitter:title', content: 'lapiscine.gg' },
       { name: 'twitter:image', content: 'https://facebook.github.io/react/img/logo_og.png' },

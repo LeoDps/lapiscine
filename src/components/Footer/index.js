@@ -9,7 +9,7 @@ const Footer = () => (
   <footer className={styles.Footer}>
     <div className={styles.Footer__container}>
       <div className={styles.Footer__container__description}>
-        <img src={require('./assets/logo.png')} alt="logo" />
+        <h2>la piscine</h2>
         <p>
           Premier club privé Français autours des cryptomonnaies. <br />
           Calls, articles de fond, formations, experts en cryptomonnaies

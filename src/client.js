@@ -7,11 +7,13 @@ import { AppContainer } from 'react-hot-loader'
 import { Provider } from 'react-redux'
 import createHistory from 'history/createBrowserHistory'
 import { ConnectedRouter } from 'react-router-redux'
+import { hotjar } from 'react-hotjar'
 
 import configureStore from './redux/store'
 import { GA } from './config'
 
 ReactGA.initialize(GA)
+hotjar.initialize(642320, 5)
 
 // Get initial state from server-side rendering
 const initialState = window.__INITIAL_STATE__

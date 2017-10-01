@@ -29,7 +29,9 @@ export default () => {
 
   return (
     <div className={styles.App}>
-      <Helmet {...config.app} />
+      <Helmet {...config.app}>
+        <link rel="icon" href={require('./assets/favicon.png')} />
+      </Helmet>
       <Switch>
         {routes.map(route => routeWithSubRoutes(route))}
       </Switch>

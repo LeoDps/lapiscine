@@ -6,10 +6,10 @@
   "description": {
     "mainTitle": "Avec La Piscine, plongez dans l'univers des cryptomonnaies",
     "mainSubtitle": "Bitcoin , Ethereum , Altcoins...",
-    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines",
+    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines. La crypto est un investissement comme un autre, nous sommes la pour vous aider à faire fructifier votre capital.",
     "Descriptions": [
       {
-        "title": "Echangez avec des trader confirmés",
+        "title": "Echangez avec nos traders",
         "subtitle": "Gagnez du temps",
         "content": "La Piscine est un nid de traders confirmés aux backgrounds différents et pertinents. Nous rejoindre vous permettra d’échanger avec ces personnes et vous permettront de gagner en expérience.",
         "icon": "3.svg"
@@ -21,7 +21,7 @@
       }, {
         "title": "Analyses sur demandes",
         "subtitle": "Nos analystes à votre disposition",
-        "content": "Une monnaie vous intéresse, mais vous ne savez pas quand entrer ? Le projet a l’air intéressant mais vous n’avez pas tout compris ?  Nous serons là pour vous faire des analyses techniques et fondamentales sur demande !",
+        "content": "Une monnaie vous intéresse mais vous ne savez pas quand entrer ? Le projet a l’air intéressant mais vous n’avez pas tout compris ? Nous sommes disponibles pour vous faire des analyses techniques et fondamentales sur demande.",
         "icon": "6.svg"
       }, {
         "title": "Formation complète",
@@ -164,7 +164,7 @@
         "name": "Maxime xDay",
         "twitter": "https://twitter.com/xDayKami",
         "twitter_at": "@xDayKami",
-        "content": "Trader part time, investisseur dans la crypto, chart addict"
+        "content": "Agent et expert immobilier, intéressé par les différents marchés financiers, c'est début 2017 que j'ai commencé à investir en crypto et l'analyse technique est rapidement devenu ma ligne de conduite."
       }, {
         "image": "leo.jpg",
         "name": "Léonard Dupuis",
