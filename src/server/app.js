@@ -29,14 +29,14 @@ import App from './../containers/App'
 import routes from './../routes'
 import { port, host, BLACKLIST } from './../config' //eslint-disable-line
 
-const auth = require('http-auth')
+// const auth = require('http-auth')
 
 // HTTP Auth
-const basic = auth.basic({
-  realm: 'La Piscine.gg',
-}, (username, password, callback) => {
-  callback(username === 'chartswarrior' && password === 'tothemoon')
-})
+// const basic = auth.basic({
+//   realm: 'La Piscine.gg',
+// }, (username, password, callback) => {
+//   callback(username === 'chartswarrior' && password === 'tothemoon')
+// })
 
 const appDirectory = fs.realpathSync(process.cwd())
 function resolveApp(relativePath) {
@@ -57,10 +57,10 @@ const limiter = new RateLimit({
 })
 
 export default (app) => {
-  // HTTP Auth handler
-  if (process.env.NODE_PREPROD) {
-    app.use(auth.connect(basic))
-  }
+  // // HTTP Auth handler
+  // if (process.env.NODE_PREPROD) {
+  //   app.use(auth.connect(basic))
+  // }
 
   // Using helmet to secure Express with various HTTP headers
   app
