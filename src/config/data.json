@@ -20,7 +20,7 @@
         "icon": "1.svg"
       }, {
         "title": "Comprenez le calendrier",
-        "subtitle": "Ne râtez jamais un évènement",
+        "subtitle": "Ne ratez jamais un évènement",
         "content": "Nous vous tenons informé de l'actualité qui régit le milieu des crypto, et on vous aide à comprendre l'impact des annonces sur le marché.",
         "icon": "6.svg"
       }, {
@@ -76,7 +76,7 @@
     ]
   },
   "pricing": {
-    "title": "Votre meilleur investissement",
+    "title": "La Piscine n'attend que vous...",
     "subtitle": "N'oubliez pas vos palmes",
     "price": "0.05 BTC",
     "conditions": {
@@ -118,7 +118,7 @@
     "disclaimer": {
       "title": "Rejoindre La Piscine, un investissement réfléchi",
       "subtitle": "N’investissez pas l’argent que vous ne pouvez pas vous permettre de perdre",
-      "content": "La Piscine n’est pas une recette magique, c’est avant tout un groupe issu de nos expériences et connaissances qui vous évitera de nombreuses erreurs. Toutes les informations qui vous sont données le sont à but pédagogique, et ne constitue en aucun cas des conseils d'investissement. Notre objectif et de vous permettre de devenir autonome le plus vite possible."
+      "content": "La Piscine n’est pas une recette magique, c’est avant tout un groupe issu de nos expériences et connaissances qui vous évitera de nombreuses erreurs. Toutes les informations qui vous sont données le sont à but pédagogique, et ne constitue en aucun cas des conseils d'investissement. Ni La Piscine, ni aucuns de ses membres ne seraient être tenus pour responsable de pertes éventuelles. Notre objectif et de vous permettre de devenir autonome le plus vite possible. "
     }
   },
   "team": {
