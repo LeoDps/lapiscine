@@ -11,7 +11,7 @@ const Footer = () => (
       <div className={styles.Footer__container__description}>
         <h2>la piscine</h2>
         <p>
-          Premier club privé Français autours des cryptomonnaies. <br />
+          Premier club privé Français autour des cryptomonnaies. <br />
           Calls, articles de fond, formations, experts en cryptomonnaies
         </p>
       </div>
@@ -27,7 +27,7 @@ const Footer = () => (
     </div>
     <div className={styles.Footer__legals}>
       {/* <h4>Lire nos <span>termes et conditions légales</span></h4> */}
-      <h5>©2017 LaPiscine | All rigths reserved.</h5>
+      <h5>©2017 LaPiscine | All rigth reserved.</h5>
     </div>
   </footer>
 )

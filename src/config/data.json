@@ -6,12 +6,12 @@
   "description": {
     "mainTitle": "Avec La Piscine, plongez dans l'univers des cryptomonnaies",
     "mainSubtitle": "Bitcoin , Ethereum , Altcoins...",
-    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, conseils. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines. La crypto est un investissement comme un autre, nous sommes la pour vous aider à faire fructifier votre capital.",
+    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, formations. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines. La crypto est un investissement comme un autre, nous sommes là pour vous aider à faire fructifier votre capital.",
     "Descriptions": [
       {
         "title": "Echangez avec nos traders",
         "subtitle": "Gagnez du temps",
-        "content": "La Piscine est un nid de traders confirmés aux backgrounds différents et pertinents. Nous rejoindre vous permettra d’échanger avec ces personnes et vous permettront de gagner en expérience.",
+        "content": "La Piscine est un nid de traders confirmés aux backgrounds différents et pertinents. Nous rejoindre vous permettra d’échanger avec ces personnes et gagner en expérience.",
         "icon": "3.svg"
       }, {
         "title": "Signaux & Analyses 24/7",
@@ -33,11 +33,11 @@
   },
   "services": {
     "title": "Sautez dans le grand bassin",
-    "subtitle": "Ne perdez pas pieds grâce à ces trois composantes du trading",
+    "subtitle": "Ne perdez pas pied grâce à ces trois composantes du trading",
     "Services": [
       {
         "title": "Analyse fondamentale",
-        "content": "L’analyse fondamentale (AF) consiste à étudier les fondements d’un projet (Aspects techniques, équipe, roadmap, vision …) afin d’identifier les projets prometteurs. L’AF permet de choisir les projets sur lesquels se placer, elle répond à la question “Dans quoi investir ?” Grâce aux analystes de la piscine, évitez les projets qui prennent l’eau."
+        "content": "L’analyse fondamentale (AF) consiste à étudier les fondements d’un projet (Aspects techniques, équipe, roadmap, vision …) afin d’identifier les projets prometteurs. L’AF permet de choisir les projets sur lesquels se placer, elle répond à la question “Dans quoi investir ?” Grâce aux analystes de La Piscine, évitez les projets qui prennent l’eau."
       }, {
         "title": "Analyse technique",
         "content": "L’analyse technique (AT) consiste à interpréter les variations de cours, afin de mieux comprendre la psychologie du marché, et ainsi de mieux anticiper l’évolution des prix. L’AT permet de choisir les bons timing. Elle répond aux questions  “Quand acheter, quand vendre ?”. Dans La Piscine, se sont des traders expérimentés qui publient des AT et les expliquent."
@@ -76,8 +76,8 @@
     ]
   },
   "pricing": {
-    "title": "Une offre simple et abordable",
-    "subtitle": "Et en plus on est super sympa",
+    "title": "Votre meilleur investissement",
+    "subtitle": "Une offre simple et complète",
     "price": "0.05 BTC",
     "conditions": {
       "content": "Pour accéder à l'intégrale",
@@ -111,7 +111,7 @@
         {
           "text": "Analyses fondamentales"
         }, {
-          "text": "Aide à la prise de décisions"
+          "text": "Articles de fond"
         }, {
           "text": "Entraide entre tout les membres"
         }, {
