@@ -11,8 +11,8 @@ const Footer = () => (
       <div className={styles.Footer__container__description}>
         <h2>la piscine</h2>
         <p>
-          Premier club privé Français autour des cryptomonnaies. <br />
-          Calls, articles de fond, formations, experts en cryptomonnaies
+          Sautez dans le bain des cryptomonnaies et passez à <br />
+          la vitesse supérieure en rejoignant La Piscine
         </p>
       </div>
       <div className={styles.Footer__container__networks}>
@@ -26,7 +26,7 @@ const Footer = () => (
       </div>
     </div>
     <div className={styles.Footer__legals}>
-      {/* <h4>Lire nos <span>termes et conditions légales</span></h4> */}
+      <h4>Des questions ? <a href="mailto:hello@lapiscine.gg"><span>nous contacter</span></a></h4>
       <h5>©2017 LaPiscine | All rigth reserved.</h5>
     </div>
   </footer>

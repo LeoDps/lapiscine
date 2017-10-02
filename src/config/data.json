@@ -6,22 +6,22 @@
   "description": {
     "mainTitle": "Avec La Piscine, plongez dans l'univers des cryptomonnaies",
     "mainSubtitle": "Bitcoin , Ethereum , Altcoins...",
-    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, formations. Prenez le contrôle sur vos investissements quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines. La crypto est un investissement comme un autre, nous sommes là pour vous aider à faire fructifier votre capital.",
+    "mainContent": "La Piscine vous offre une vision à 360 degrés : signaux, analyses, formations. Quelque soit votre niveau, gagnez en expérience et surfez sur le marché aux côtés des baleines. La spéculation sur les crypto monnaies est risquée et complexe, c'est pourquoi dans La Piscine nous partageons avec vous notre expérience afin d'atteindre plus rapidement vos objectifs.",
     "Descriptions": [
       {
-        "title": "Echangez avec nos traders",
-        "subtitle": "Gagnez du temps",
-        "content": "La Piscine est un nid de traders confirmés aux backgrounds différents et pertinents. Nous rejoindre vous permettra d’échanger avec ces personnes et gagner en expérience.",
+        "title": "Echangez avec nous",
+        "subtitle": "Partagez votre motivation",
+        "content": "La Piscine regroupe plusieurs profils aux backgrounds différents et pertinents. Nous rejoindre vous permettra d’échanger avec tout les membres.",
         "icon": "3.svg"
       }, {
-        "title": "Signaux & Analyses 24/7",
+        "title": "Un marché actif 24/7",
         "subtitle": "La réactivité, une force",
-        "content": "Dans le monde des crypto monnaies l’argent ne dort jamais, le marché est continuellement actif. Une équipe capable de vous fournir des signaux et analyses à tout moment est essentielle.",
+        "content": "Le monde des crypto monnaies ne dort jamais, le marché est continuellement actif. Nous vous aidons à surveiller les évolutions jour après jour.",
         "icon": "1.svg"
       }, {
-        "title": "Analyses sur demandes",
-        "subtitle": "Nos analystes à votre disposition",
-        "content": "Une monnaie vous intéresse mais vous ne savez pas quand entrer ? Le projet a l’air intéressant mais vous n’avez pas tout compris ? Nous sommes disponibles pour vous faire des analyses techniques et fondamentales sur demande.",
+        "title": "Comprenez le calendrier",
+        "subtitle": "Ne râtez jamais un évènement",
+        "content": "Nous vous tenons informé de l'actualité qui régit le milieu des crypto, et on vous aide à comprendre l'impact des annonces sur le marché.",
         "icon": "6.svg"
       }, {
         "title": "Formation complète",
@@ -37,13 +37,13 @@
     "Services": [
       {
         "title": "Analyse fondamentale",
-        "content": "L’analyse fondamentale (AF) consiste à étudier les fondements d’un projet (Aspects techniques, équipe, roadmap, vision …) afin d’identifier les projets prometteurs. L’AF permet de choisir les projets sur lesquels se placer, elle répond à la question “Dans quoi investir ?” Grâce aux analystes de La Piscine, évitez les projets qui prennent l’eau."
+        "content": "L’analyse fondamentale (AF) consiste à étudier les fondements d’un projet (Aspects techniques, équipe, roadmap, vision …) afin d’identifier les projets prometteurs. L’AF permet de choisir les projets sur lesquels se placer, elle répond à la question “Dans quoi investir ?” Grâce à l'expérience cumulée des membres de La Piscine, apprenez à évitez les projets qui prennent l’eau."
       }, {
         "title": "Analyse technique",
-        "content": "L’analyse technique (AT) consiste à interpréter les variations de cours, afin de mieux comprendre la psychologie du marché, et ainsi de mieux anticiper l’évolution des prix. L’AT permet de choisir les bons timing. Elle répond aux questions  “Quand acheter, quand vendre ?”. Dans La Piscine, se sont des traders expérimentés qui publient des AT et les expliquent."
+        "content": "L’analyse technique (AT) consiste à interpréter les variations de cours, afin de mieux comprendre la psychologie du marché, et ainsi de mieux anticiper l’évolution des prix. L’AT permet de choisir les bons timing. Elle répond aux questions  “Quand acheter, quand vendre ?”. Dans La Piscine, nous vous aidons à comprendre et réaliser vos propres analyses techniques."
       }, {
         "title": "L’Expérience",
-        "content": "L’analyse technique et l’analyse fondamentale demandent un peu d’expérience et de pratique afin d’éviter certains écueils. En rejoignant La Piscine, vous bénéficierez de l’expertise de plusieurs crypto traders confirmés. Quelles que soient vos connaissances, vous aurez accès à tous les outils pour faire le grand plongeon."
+        "content": "L’analyse technique et l’analyse fondamentale demandent un peu d’expérience et de pratique afin d’éviter certains écueils. En rejoignant La Piscine, vous bénéficierez de l’expérience de tout nos membres. Quelles que soient vos connaissances, vous aurez accès à tous les outils pour faire le grand plongeon par vous même."
       }
     ],
     "Results": [
@@ -77,56 +77,52 @@
   },
   "pricing": {
     "title": "Votre meilleur investissement",
-    "subtitle": "Une offre simple et complète",
+    "subtitle": "N'oubliez pas vos palmes",
     "price": "0.05 BTC",
     "conditions": {
-      "content": "Pour accéder à l'intégrale",
-      "span": "de tout notre contenu"
+      "content": "Pour accéder à ",
+      "span": "la communauté"
     },
     "Descriptions": [
       {
-        "title": "Retours sur investissements",
-        "subtitle": "Plus rentable que votre livret A",
-        "content": "En rejoignant La Piscine, nos experts mettent de façon journalière des signaux de très bonne qualité qui vous permettront de maximiser vos profits.",
-        "icon": "7.svg"
-      }, {
         "title": "Vous êtes encore novice ?",
-        "subtitle": "Faites le grand saut",
-        "content": "L’ensemble de l’équipe La Piscine s’engage à produire des articles et des analyses techniques sous forme de formation qui sauront vous faire progresser dans le trading des crypto monnaies.",
+        "subtitle": "Sortez du pédiluve",
+        "content": "L’ensemble de l’équipe La Piscine s'évertue à vous apporter les bases nécessaires pour bien débuter, et éviter les erreurs de débutant.",
         "icon": "2.svg"
+      }, {
+        "title": "Vous êtes plus avancés ?",
+        "subtitle": "Pour aller plus loin",
+        "content": "En rejoignant la piscine, nous mettons à votre disposition notre connaissance issue d'une expérience multifacettes de la crypto.",
+        "icon": "7.svg"
       }
     ],
     "Services": [
       [
         {
-          "text": "Analyses sur demandes"
-        }, {
           "text": "Accès Discord VIP"
         }, {
-          "text": "Analyses techniques"
+          "text": "Décoder les tendances"
         }, {
-          "text": "Réponses à vos questions"
+          "text": "Apprendre et comprendre"
         }
       ], [
         {
-          "text": "Analyses fondamentales"
-        }, {
           "text": "Articles de fond"
         }, {
           "text": "Entraide entre tout les membres"
         }, {
-          "text": "Suivi des résultats"
+          "text": "Pratiquer et progresser"
         }
       ]
     ],
     "disclaimer": {
       "title": "Rejoindre La Piscine, un investissement réfléchi",
       "subtitle": "N’investissez pas l’argent que vous ne pouvez pas vous permettre de perdre",
-      "content": "La Piscine n’est pas une recette magique, c’est avant tout un groupe issu de nos expériences et connaissances qui vous évitera de nombreuses erreurs. Voyez l’adhésion à La Piscine comme un investissement qui vous sera profitable autant à court qu’à long terme."
+      "content": "La Piscine n’est pas une recette magique, c’est avant tout un groupe issu de nos expériences et connaissances qui vous évitera de nombreuses erreurs. Toutes les informations qui vous sont données le sont à but pédagogique, et ne constitue en aucun cas des conseils d'investissement. Notre objectif et de vous permettre de devenir autonome le plus vite possible."
     }
   },
   "team": {
-    "title": "Votre activité sous la surveillance de nos maîtres nageurs",
+    "title": "Votre activité sous la surveillance de nos maîtres-nageurs",
     "subtitle": "Une équipe pluricompétente à votre disposition",
     "Team": [
       {
@@ -140,13 +136,13 @@
         "name": "Le Tonton",
         "twitter": "https://twitter.com/LeTonton_",
         "twitter_at": "@LeTonton_",
-        "content": "Etudie le marché des crypto monnaies depuis + de 9 mois maintenant. Est passionné par la psychologie présent sur les marchés. Spécialisé dans l'analyse technique."
+        "content": "Etudie le marché des crypto monnaies depuis + de 9 mois maintenant. Est passionné par la psychologie présente sur les marchés. Spécialisé dans l'analyse technique."
       }, {
         "image": "jeremy.jpg",
         "name": "Jérémy",
         "twitter": "https://twitter.com/Limace_",
         "twitter_at": "@Limace_",
-        "content": "Co-fondateur de la communauté “La Baleine”, étudiant en électronique. Développeur à ses heures perdus. Passionné par l’intelligence financière et l’entreprenariat. "
+        "content": "Co-fondateur de la communauté “La Baleine”, étudiant en électronique. Développeur à ses heures perdues. Passionné par l’intelligence financière et l’entreprenariat. "
       }, {
         "image": "kiwi.png",
         "name": "Kiwi",
@@ -164,7 +160,7 @@
         "name": "Maxime xDay",
         "twitter": "https://twitter.com/xDayKami",
         "twitter_at": "@xDayKami",
-        "content": "Agent et expert immobilier, intéressé par les différents marchés financiers, c'est début 2017 que j'ai commencé à investir en crypto et l'analyse technique est rapidement devenu ma ligne de conduite."
+        "content": "Agent et expert immobilier, intéressé par les différents marchés financiers, c'est début 2017 que j'ai commencé à investir en crypto et l'analyse technique est rapidement devenue ma ligne de conduite."
       }, {
         "image": "leo.jpg",
         "name": "Léonard Dupuis",
