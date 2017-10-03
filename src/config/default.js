@@ -3,7 +3,7 @@ module.exports = {
   port: process.env.PORT,
   API: process.env.API_PORT,
   GA: 'UA-46731966-17',
-  LOGS_PATH: 'logs',
+  LOGS_PATH: '/var/log/app_logs',
   app: {
     htmlAttributes: { lang: 'fr' },
     title: 'La Piscine - Le trading de crypto monnaies à votre portée',
@@ -25,16 +25,16 @@ module.exports = {
       // FACEBOOK META
       { property: 'og:type', content: 'website' },
       { property: 'og:url', content: 'http://lapiscine.gg' },
-      { property: 'og:image', content: 'https://facebook.github.io/react/img/logo_og.png' },
+      { property: 'og:image', content: 'https://pbs.twimg.com/profile_banners/908401670098485249/1506285048/1500x500' },
       { property: 'og:site_name', content: 'lapiscine.gg' },
       { property: 'og:title', content: 'lapiscine.gg' },
-      { property: 'og:description', content: 'Bitcoins and cryptocurrencies VIP club' },
+      { property: 'og:description', content: 'Sautez dans le bain des crypto monnaies et passez à la vitesse supérieure en rejoignant lapiscine.gg' },
       // TWITTER META
       { name: 'twitter:card', content: 'summary' },
       { name: 'twitter:url', content: 'http://lapiscine.gg' },
       { name: 'twitter:site', content: 'lapiscine.gg' },
       { name: 'twitter:title', content: 'lapiscine.gg' },
-      { name: 'twitter:image', content: 'https://facebook.github.io/react/img/logo_og.png' },
+      { property: 'og:image', content: 'https://pbs.twimg.com/profile_banners/908401670098485249/1506285048/1500x500' },
     ],
   },
 }
