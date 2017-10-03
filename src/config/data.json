@@ -21,7 +21,7 @@
       }, {
         "title": "Comprenez le calendrier",
         "subtitle": "Ne ratez jamais un évènement",
-        "content": "Nous vous tenons informé de l'actualité qui régit le milieu des crypto, et on vous aide à comprendre l'impact des annonces sur le marché.",
+        "content": "Nous vous tenons informé de l'actualité qui régit le milieu des crypto, et nous vous aidons à comprendre l'impact des annonces sur le marché.",
         "icon": "6.svg"
       }, {
         "title": "Formation complète",
@@ -49,28 +49,33 @@
     "Results": [
       {
         "coin": "ark.svg",
-        "buy": "20000",
-        "sell": "81234",
+        "coin_name": "Ark",
+        "coin_slug": "ARK",
+        "datetime": "30",
         "percent": "306"
       }, {
         "coin": "strat.svg",
-        "buy": "14000",
-        "sell": "40506",
+        "coin_name": "Stratis",
+        "coin_slug": "STRAT",
+        "datetime": "12",
         "percent": "189"
       }, {
         "coin": "pay.svg",
-        "buy": "33468",
-        "sell": "151739",
+        "coin_name": "BitPay",
+        "coin_slug": "PAY",
+        "datetime": "11",
         "percent": "353"
       }, {
         "coin": "xrp.svg",
-        "buy": "800",
-        "sell": "20765",
+        "coin_name": "Ripple",
+        "coin_slug": "XRP",
+        "datetime": "49",
         "percent": "2259"
       }, {
         "coin": "xvg.svg",
-        "buy": "44",
-        "sell": "196",
+        "coin_name": "Verge",
+        "coin_slug": "XVG",
+        "datetime": "23",
         "percent": "345"
       }
     ]
@@ -130,7 +135,7 @@
         "name": "Antoine Lin",
         "twitter": "https://twitter.com/ToineLIN",
         "twitter_at": "@ToineLIN",
-        "content": "Étudiant et entrepreneur, responsable développement (CTO) chez Team Vitality et creative developer freelance. Designer et motion designer à ses heures"
+        "content": "Entrepreneur, responsable développement (CTO) chez Team Vitality et creative developer freelance. Designer et motion designer à ses heures"
       }, {
         "image": "tonton.jpg",
         "name": "Le Tonton",
